@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_25-b17 (Oracle Corporation)
+Developer: Dhaval Kapil
+Class-Path: 
+X-COMMENT: Main-Class will be added automatically by build
+SplashScreen-Image: splash.png
+Main-Class: iitrvirusremover.MainFrame
