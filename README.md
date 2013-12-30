@@ -10,5 +10,7 @@ This gui based java program removes the virus responsible for the conversion of 
 MIT license http://www.opensource.org/licenses/mit-license.php
 
 <h3>Working:</h3>
+First compile the .java files and create the jar file:<br><br>
+jar -cvmf MANIFEST.MF IITRVirusRemover.jar iitrvirusremover LICENSE README.md splash.png<br><br>
 Simply insert your usb drive and note the drive letter. Then double click the IITRVirusRemover.jar and enter the drive letter. All the data will be recovered in the directory recovery/ relative to the location of the jar file irrespective of whether the virus is present or not.<br>
 Note: For the users benefit, this program does not delete the data(except virus) on the usb drive. Although users are recommended to format the drive after program run and copy back the files in the recovery to the usb drive.
